@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/senren/hero.webp" alt="千恋＊万花 主视觉" width="100%">
+  <img src="./hero.webp" alt="千恋＊万花 主视觉" width="100%">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 > 主线任务：让系统稳定运行，让异常留下线索，让版本顺利交付。
 
 <p align="center">
-  <img src="./assets/senren/characters.webp" alt="柚子社角色横幅" width="900">
+  <img src="./characters.webp" alt="柚子社角色横幅" width="900">
 </p>
 
 ## 技能树
@@ -95,5 +95,5 @@
 ---
 
 <p align="center">
-  <img src="./assets/senren/logo.webp" alt="Senren Banka" width="360">
+  <img src="./logo.webp" alt="Senren Banka" width="360">
 </p>
